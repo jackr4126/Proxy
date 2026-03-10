@@ -1,0 +1,1 @@
+{"name": "proxy-server","version": "1.0.0","description": "A simple HTTP/HTTPS proxy server using Puppeteer.","main": "index.js","scripts": {"start": "node index.js"},"dependencies": {"puppeteer": "^20.0.0","http-proxy": "^1.18.1","https-proxy-agent": "^5.0.0"}}
